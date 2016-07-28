@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "module": "amd",
+        "sourceMap": true, //arquivos map criados para debug do TypeScript
+        "watch": true
+    }
+}
